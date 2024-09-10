@@ -10,5 +10,3 @@
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tricky135&theme=dark)](https://git.io/streak-stats)
 
-<br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=Tricky135&theme=monokai&count_private=true)
