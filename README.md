@@ -1,16 +1,14 @@
-## Hi there 👋
+- 👋 Yoi, I’m Debkalpa!
+- A Data Analyst by profession.
+- I love fiction and technology in all format.
+- 📫 Reach me @ dasdebkalpa@gmail.com
 
-<!--
-**Tricky135/Tricky135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+![Debkalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tricky135&hide=contribs&count_private=true&theme=tokyonight)  &nbsp;&nbsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tricky135&layout=compact&count_private=true&theme=tokyonight)
+<br>
+<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tricky135&theme=dark)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=Tricky135&theme=monokai&count_private=true)
