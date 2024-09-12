@@ -1,8 +1,6 @@
 <h1 align="center">Yoi 👋, I'm Debkalpa !</h1>
 <h3 align="center">A Data Analyst by profession.</h3>
 
-<br>
-
 ## 💬 About Me :-
 - Data Analysis and Visualization (Python, Tableau, Excel),
 - Game Development (Python, UNITY),
