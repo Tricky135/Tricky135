@@ -4,13 +4,13 @@
 <br>
 
 ## 💬 About Me :-
-- Data Analysis and Visualization (Python, Tableau, Excel)
-- Game Development (Python, UNITY)
-- Content Writing and Graphic Design
+- Data Analysis and Visualization (Python, Tableau, Excel),
+- Game Development (Python, UNITY),
+- Content Writing and Graphic Design.
 
 ## 📅 My Hobbies :-
-- Play videogames
-- Explore new technology
+- Play videogames,
+- Explore new technology,
 - Read and watch fiction. 
 
 <br>
