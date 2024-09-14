@@ -26,11 +26,11 @@
 - 📈 Microsoft Excel
 - 🗂️ Database Management
 
-<br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="Tricky135" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tricky135&show_icons=true&theme=radical&include_all_commits=true"> 
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="Tricky135" />
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tricky135&theme=radical&card_width=490&border=EBE9E6&stroke=EB5454&ring=D2034E&fire=D2034E&currStreakNum=FFD700&sideNums=D2034E&currStreakLabel=FFD700&sideLabels=FFD700&dates=96E0DC" alt="GitHub Streak" /></a>
 
