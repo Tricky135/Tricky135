@@ -12,19 +12,20 @@
 
 <br>
 
+## 🎯 My Skills :-
+- 📄 Python
+- 📊 Tableau
+- 📈 Microsoft Excel
+- 🗂️ Database Management
+
+<br>
+
 ## 📅 My Hobbies :-
 - 🎮 Play videogames,
 - 🎵 Listen to Music,
 - 🎥 Read and watch fiction,
 - 🔎 Explore new technology.
 
-<br>
-
-## 🎯 My Skills :-
-- 📄 Python
-- 📊 Tableau
-- 📈 Microsoft Excel
-- 🗂️ Database Management
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="Tricky135" />
 
