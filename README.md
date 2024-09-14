@@ -16,7 +16,7 @@
 - 🎥 Read and watch fiction,
 - 🔎 Explore new technology.
 
-## 📅 My Skills :-
+## 🎯 My Skills :-
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -49,4 +49,3 @@
 
   <a href="dasdebkalpa@gmail.com">
     <img alt="Email" title="Email" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
-  
