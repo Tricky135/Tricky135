@@ -31,7 +31,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tricky135&show_icons=true&theme=radical&include_all_commits=true" width="350" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Tricky135&show_icons=true&theme=radical&include_all_commits=true" width="300" height="200">
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tricky135&theme=radical&card_width=490&border=EBE9E6&stroke=EB5454&ring=D2034E&fire=D2034E&currStreakNum=FFD700&sideNums=D2034E&currStreakLabel=FFD700&sideLabels=FFD700&dates=96E0DC" alt="GitHub Streak" /></a>
