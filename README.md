@@ -21,8 +21,8 @@
 <br>
 
 ## 📅 My Hobbies :-
-- 🎮 Play videogames,
 - 🎵 Listen to Music,
+- 🎮 Play videogames,
 - 🎥 Read and watch fiction,
 - 🔎 Explore new technology.
 
