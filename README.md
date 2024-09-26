@@ -50,3 +50,6 @@
 
   <a href="dasdebkalpa@gmail.com">
     <img alt="Email" title="Email" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
+    
+  <a href="https://x.com/its_tricky__">
+      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
